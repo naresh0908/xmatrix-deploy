@@ -23,14 +23,15 @@ const generateMonthlyData = (baseTarget: number, variance: number = 0.1): Monthl
 };
 
 export const owners: Owner[] = [
-  { id: 'owner-1', name: 'Sarah Chen', role: 'Chief Strategy Officer', avatar: '', initials: 'SC', responsibilityType: 'accountable' },
-  { id: 'owner-2', name: 'Marcus Rodriguez', role: 'VP Operations', avatar: '', initials: 'MR', responsibilityType: 'responsible' },
-  { id: 'owner-3', name: 'Emily Watson', role: 'Director of Innovation', avatar: '', initials: 'EW', responsibilityType: 'responsible' },
-  { id: 'owner-4', name: 'David Kim', role: 'CFO', avatar: '', initials: 'DK', responsibilityType: 'accountable' },
-  { id: 'owner-5', name: 'Lisa Thompson', role: 'VP Customer Success', avatar: '', initials: 'LT', responsibilityType: 'responsible' },
-  { id: 'owner-6', name: 'James Miller', role: 'CTO', avatar: '', initials: 'JM', responsibilityType: 'accountable' },
-  { id: 'owner-7', name: 'Amanda Foster', role: 'Director of HR', avatar: '', initials: 'AF', responsibilityType: 'consulted' },
-  { id: 'owner-8', name: 'Robert Chang', role: 'VP Sales', avatar: '', initials: 'RC', responsibilityType: 'responsible' },
+  { id: 'owner-1', name: 'Naresh', role: 'Chief Strategy Officer', avatar: '', initials: 'NK', responsibilityType: 'accountable' },
+  { id: 'owner-2', name: 'Mukilan', role: 'VP Operations', avatar: '', initials: 'MJ', responsibilityType: 'responsible' },
+  { id: 'owner-3', name: 'Rohith', role: 'Director of Innovation', avatar: '', initials: 'RR', responsibilityType: 'responsible' },
+  { id: 'owner-4', name: 'Shibi', role: 'CFO', avatar: '', initials: 'CB', responsibilityType: 'accountable' },
+  { id: 'owner-5', name: 'Aarthi', role: 'VP Customer Success', avatar: '', initials: 'AS', responsibilityType: 'responsible' },
+  { id: 'owner-6', name: 'Rethik', role: 'CTO', avatar: '', initials: 'RV', responsibilityType: 'accountable' },
+  { id: 'owner-7', name: 'Haswanth', role: 'Director of HR', avatar: '', initials: 'HS', responsibilityType: 'consulted' },
+  { id: 'owner-8', name: 'Savio', role: 'VP Sales', avatar: '', initials: 'SJA', responsibilityType: 'responsible' },
+  { id: 'owner-9', name: 'Akarsh', role: 'Director of Marketing', avatar: '', initials: 'AK', responsibilityType: 'responsible' },
 ];
 
 export const longTermObjectives: LongTermObjective[] = [
